@@ -1,10 +1,15 @@
 사용된 링크
 NotebookLM : https://notebooklm.google.com/notebook/bfb5814a-dfbb-472e-b4a4-92f57675e839
+
 카카오맵 링크
 https://apis.map.kakao.com/web/guide/
+
 https://apis.map.kakao.com/web/documentation/
+
 https://apis.map.kakao.com/web/sample/calculateCircleRadius/
+
 https://apis.map.kakao.com/web/sample/multipleMarkerControl/
+
 공공데이터 포털(심평원 약국정보서비스) : https://www.data.go.kr/data/15001673/openapi.do
 
 ---
